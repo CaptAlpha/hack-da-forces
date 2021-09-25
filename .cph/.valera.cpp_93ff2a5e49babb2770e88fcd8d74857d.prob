@@ -1,0 +1,1 @@
+{"name":"Local: valera","url":"d:\\Practice Folder 2\\CC\\hack-da-forces\\valera.cpp","tests":[{"id":1632597214826,"input":"1 7 3 3\n","output":"1\n"},{"id":1632597226852,"input":"7 7 7 7\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Practice Folder 2\\CC\\hack-da-forces\\valera.cpp","group":"local","local":true}
